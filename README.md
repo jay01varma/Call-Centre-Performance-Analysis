@@ -57,8 +57,6 @@ The dashboard leverages data from:
 - Expand data sources to include live chat and email support interactions.
 
 ## Contact
-For questions or feedback about this project, please contact:
-
-Name: Jay Dilip Varma  
+Name: **Jay Dilip Varma**  
 Email: jay01varma@gmail.com  
-LinkedIn: https://www.linkedin.com/in/connect-wtih-jay-varma/
+GitHub: [jay01varma](https://github.com/jay01varma)
